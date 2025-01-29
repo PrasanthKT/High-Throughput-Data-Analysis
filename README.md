@@ -1,7 +1,5 @@
 # High-Throughput-Data-Analysis
 
-This repository contains all the assignments for the Computational Methods for the High-Throughput- Data analysis course. Each assignment is organized into its own folder, which includes the input files, code, and output files, structured within their respective directories.
-
 ### Assignment-1
 1. Programming Language and Version: Python and Python 3.11.4.
 
