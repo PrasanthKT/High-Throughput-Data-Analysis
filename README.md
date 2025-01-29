@@ -45,6 +45,19 @@ Input: DecayTimecourse.txt
 
 ### Assignment-4
 
+1. Programming Language and Version: Python and Python 3.11.4.
+
+2. Dependencies: Python Libraries. Pandas and Numpy
+
+3. Input: argR-counts-matrix.txt, E_coli_K12_MG1655.400_50.
+
+4. Description: This Python script intially, computes a frequency matrix from a given counts matrix, using this frequency matrix a Position Weight Matrix (PWM) is then constructed by comparing the observed frequencies and displays the output (both Frequency matrix and PWM). The script then employs this PWM to scan and score potential binding sites within provided upstream regulatory regions of genes. The output displays the top 30 gene IDs with the scores.
+
+5. Execution: Clone the repository. Download 1. argR-counts-matrix.txt. 2.E_coli_K12_MG1655.400_50 3.Download and Run the Assignment-4.ipynb file. Check the output.
+
+6. Output: Displays The Frequency matrix and Position Weight Matrix and Top 30 Scoring geneids along with their scores.
+
+### Assignment-5
 
 
 
